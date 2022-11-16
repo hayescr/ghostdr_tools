@@ -1,0 +1,1 @@
+date path/to/flat.fits path/to/arc.fits path/to/wave_resid.txt
